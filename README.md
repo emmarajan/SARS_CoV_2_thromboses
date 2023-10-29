@@ -1,6 +1,7 @@
 # SARS_CoV_2_thromboses
 This repository contains the code used to analyse and visualise data from our study called
-**Antiphospholipid antibodies are enriched post-acute COVID-19 but do not modulate the thrombotic risk**. 
+**Antiphospholipid antibodies are enriched post-acute COVID-19 but do not modulate the thrombotic risk**.
+This study is a follow-up of our previous study published here: https://doi.org/10.1371/journal.ppat.1010289.
 As stated within the Rmarkdown code file and the HTML output, in case of a discrepancy, 
 the version/interpretation given in the peer reviewed journal article is supposedly correct.
 In case of any questions, you are invited to reach out to marc.emmenegger@usb.ch.
